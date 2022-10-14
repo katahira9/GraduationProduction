@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "fxaa",
+			"Path": "G:\\fxaa\\Source\\fxaa.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "fxaaEditor",
+			"Path": "G:\\fxaa\\Source\\fxaaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

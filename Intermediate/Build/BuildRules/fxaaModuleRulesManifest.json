@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"G:\\fxaa\\Source\\fxaa\\fxaa.Build.cs",
+		"G:\\fxaa\\Source\\fxaa.Target.cs",
+		"G:\\fxaa\\Source\\fxaaEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
