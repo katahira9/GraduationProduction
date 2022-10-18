@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ThirdPersonMP-3171.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\81802\Documents\Unreal Projects\ThirdPersonMP\Intermediate\Build\Win64\ThirdPersonMPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\81802\Documents\Unreal Projects\ThirdPersonMP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonMP\ThirdPersonMP.cpp.obj"
+"C:\Users\81802\Documents\Unreal Projects\ThirdPersonMP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonMP\ThirdPersonMPCharacter.cpp.obj"
+"C:\Users\81802\Documents\Unreal Projects\ThirdPersonMP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonMP\ThirdPersonMPGameMode.cpp.obj"
+"C:\Users\81802\Documents\Unreal Projects\ThirdPersonMP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonMP\ThirdPersonMPProjectile.cpp.obj"
+"C:\Users\81802\Documents\Unreal Projects\ThirdPersonMP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonMP\ThirdPersonMP.init.gen.cpp.obj"
+"C:\Users\81802\Documents\Unreal Projects\ThirdPersonMP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonMP\ThirdPersonMPCharacter.gen.cpp.obj"
+"C:\Users\81802\Documents\Unreal Projects\ThirdPersonMP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonMP\ThirdPersonMPGameMode.gen.cpp.obj"
+"C:\Users\81802\Documents\Unreal Projects\ThirdPersonMP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonMP\ThirdPersonMPProjectile.gen.cpp.obj"
+"C:\Users\81802\Documents\Unreal Projects\ThirdPersonMP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonMP\Default.rc2.res"
+/OUT:"C:\Users\81802\Documents\Unreal Projects\ThirdPersonMP\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonMP\UE4Editor-ThirdPersonMP-3171.lib"

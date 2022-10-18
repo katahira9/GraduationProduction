@@ -1,14 +1,19 @@
 {
 	"Targets": [
 		{
-			"Name": "fxaa",
-			"Path": "G:\\fxaa\\Source\\fxaa.Target.cs",
+			"Name": "ThirdPersonMP",
+			"Path": "C:\\Users\\81802\\Documents\\Unreal Projects\\ThirdPersonMP\\Source\\ThirdPersonMP.Target.cs",
 			"Type": "Game"
 		},
 		{
-			"Name": "fxaaEditor",
-			"Path": "G:\\fxaa\\Source\\fxaaEditor.Target.cs",
+			"Name": "ThirdPersonMPEditor",
+			"Path": "C:\\Users\\81802\\Documents\\Unreal Projects\\ThirdPersonMP\\Source\\ThirdPersonMPEditor.Target.cs",
 			"Type": "Editor"
+		},
+		{
+			"Name": "ThirdPersonMPServer",
+			"Path": "C:\\Users\\81802\\Documents\\Unreal Projects\\ThirdPersonMP\\Source\\ThirdPersonMPServer.Target.cs",
+			"Type": "Game"
 		}
 	]
 }
