@@ -1,2 +1,0 @@
-G:\fxaa\Intermediate\Build\Win64\UE4Editor\Development\fxaa\Definitions.fxaa.h
-G:\fxaa\Source\fxaa\fxaa.h
