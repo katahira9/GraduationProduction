@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class fxaa : ModuleRules
+public class ThirdPersonMP : ModuleRules
 {
-	public fxaa(ReadOnlyTargetRules Target) : base(Target)
+	public ThirdPersonMP(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 

@@ -3,12 +3,12 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class fxaaEditorTarget : TargetRules
+public class ThirdPersonMPEditorTarget : TargetRules
 {
-	public fxaaEditorTarget(TargetInfo Target) : base(Target)
+	public ThirdPersonMPEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-		ExtraModuleNames.Add("fxaa");
+		ExtraModuleNames.Add("ThirdPersonMP");
 	}
 }

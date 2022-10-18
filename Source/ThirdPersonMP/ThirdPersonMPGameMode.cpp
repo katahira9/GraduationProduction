@@ -1,10 +1,10 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
-#include "fxaaGameMode.h"
-#include "fxaaCharacter.h"
+#include "ThirdPersonMPGameMode.h"
+#include "ThirdPersonMPCharacter.h"
 #include "UObject/ConstructorHelpers.h"
 
-AfxaaGameMode::AfxaaGameMode()
+AThirdPersonMPGameMode::AThirdPersonMPGameMode()
 {
 	// set default pawn class to our Blueprinted character
 	static ConstructorHelpers::FClassFinder<APawn> PlayerPawnBPClass(TEXT("/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter"));

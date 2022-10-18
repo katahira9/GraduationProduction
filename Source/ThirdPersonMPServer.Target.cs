@@ -3,12 +3,12 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class fxaaTarget : TargetRules
+public class ThirdPersonMPServerTarget : TargetRules
 {
-	public fxaaTarget(TargetInfo Target) : base(Target)
+	public ThirdPersonMPServerTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-		ExtraModuleNames.Add("fxaa");
+		ExtraModuleNames.Add("ThirdPersonMP");
 	}
 }
