@@ -16,8 +16,8 @@ class AActor;
 #endif
 #define THIRDPERSONMP_ThirdPersonMPCharacter_generated_h
 
-#define ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_SPARSE_DATA
-#define ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_RPC_WRAPPERS \
+#define GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_SPARSE_DATA
+#define GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_RPC_WRAPPERS \
 	virtual void HandleFire_Implementation(); \
  \
 	DECLARE_FUNCTION(execOnRep_CurrentHealth); \
@@ -30,7 +30,7 @@ class AActor;
 	DECLARE_FUNCTION(execGetMaxHealth);
 
 
-#define ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+#define GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
 	virtual void HandleFire_Implementation(); \
  \
 	DECLARE_FUNCTION(execOnRep_CurrentHealth); \
@@ -43,9 +43,9 @@ class AActor;
 	DECLARE_FUNCTION(execGetMaxHealth);
 
 
-#define ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_EVENT_PARMS
-#define ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_CALLBACK_WRAPPERS
-#define ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_INCLASS_NO_PURE_DECLS \
+#define GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_EVENT_PARMS
+#define GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_CALLBACK_WRAPPERS
+#define GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAThirdPersonMPCharacter(); \
 	friend struct Z_Construct_UClass_AThirdPersonMPCharacter_Statics; \
@@ -60,7 +60,7 @@ public: \
 	NO_API virtual void ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const override;
 
 
-#define ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_INCLASS \
+#define GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_INCLASS \
 private: \
 	static void StaticRegisterNativesAThirdPersonMPCharacter(); \
 	friend struct Z_Construct_UClass_AThirdPersonMPCharacter_Statics; \
@@ -75,7 +75,7 @@ public: \
 	NO_API virtual void ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const override;
 
 
-#define ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_STANDARD_CONSTRUCTORS \
+#define GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AThirdPersonMPCharacter(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AThirdPersonMPCharacter) \
@@ -88,7 +88,7 @@ private: \
 public:
 
 
-#define ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_ENHANCED_CONSTRUCTORS \
+#define GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AThirdPersonMPCharacter(AThirdPersonMPCharacter&&); \
@@ -99,7 +99,7 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AThirdPersonMPCharacter)
 
 
-#define ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_PRIVATE_PROPERTY_OFFSET \
+#define GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__CameraBoom() { return STRUCT_OFFSET(AThirdPersonMPCharacter, CameraBoom); } \
 	FORCEINLINE static uint32 __PPO__FollowCamera() { return STRUCT_OFFSET(AThirdPersonMPCharacter, FollowCamera); } \
 	FORCEINLINE static uint32 __PPO__ProjectileClass() { return STRUCT_OFFSET(AThirdPersonMPCharacter, ProjectileClass); } \
@@ -108,32 +108,32 @@ public: \
 	FORCEINLINE static uint32 __PPO__CurrentHealth() { return STRUCT_OFFSET(AThirdPersonMPCharacter, CurrentHealth); }
 
 
-#define ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_9_PROLOG \
-	ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_EVENT_PARMS
+#define GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_9_PROLOG \
+	GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_EVENT_PARMS
 
 
-#define ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_GENERATED_BODY_LEGACY \
+#define GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_PRIVATE_PROPERTY_OFFSET \
-	ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_SPARSE_DATA \
-	ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_RPC_WRAPPERS \
-	ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_CALLBACK_WRAPPERS \
-	ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_INCLASS \
-	ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_STANDARD_CONSTRUCTORS \
+	GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_PRIVATE_PROPERTY_OFFSET \
+	GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_SPARSE_DATA \
+	GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_RPC_WRAPPERS \
+	GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_CALLBACK_WRAPPERS \
+	GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_INCLASS \
+	GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_GENERATED_BODY \
+#define GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_PRIVATE_PROPERTY_OFFSET \
-	ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_SPARSE_DATA \
-	ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
-	ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_CALLBACK_WRAPPERS \
-	ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_INCLASS_NO_PURE_DECLS \
-	ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_ENHANCED_CONSTRUCTORS \
+	GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_PRIVATE_PROPERTY_OFFSET \
+	GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_SPARSE_DATA \
+	GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+	GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_CALLBACK_WRAPPERS \
+	GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_INCLASS_NO_PURE_DECLS \
+	GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -141,7 +141,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> THIRDPERSONMP_API UClass* StaticClass<class AThirdPersonMPCharacter>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID ThirdPersonMP_Source_ThirdPersonMP_ThirdPersonMPCharacter_h
+#define CURRENT_FILE_ID GraduationProduction_Source_ThirdPersonMP_ThirdPersonMPCharacter_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
