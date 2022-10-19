@@ -7,7 +7,7 @@ public class ThirdPersonMPServerTarget : TargetRules
 {
 	public ThirdPersonMPServerTarget(TargetInfo Target) : base(Target)
 	{
-		Type = TargetType.Game;
+		Type = TargetType.Server;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
 		ExtraModuleNames.Add("ThirdPersonMP");
 	}
