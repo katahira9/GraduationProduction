@@ -1,9 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\Users\\81802\\Documents\\GraduationProduction\\Source\\ThirdPersonMP\\ThirdPersonMP.Build.cs",
-		"C:\\Users\\81802\\Documents\\GraduationProduction\\Source\\ThirdPersonMP.Target.cs",
-		"C:\\Users\\81802\\Documents\\GraduationProduction\\Source\\ThirdPersonMPEditor.Target.cs",
-		"C:\\Users\\81802\\Documents\\GraduationProduction\\Source\\ThirdPersonMPServer.Target.cs"
-	],
-	"EngineVersion": "4.27.2"
-}
