@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.KM_GAHelperForBP.cpp.obj": [
+			"KM_GAActor.cpp.obj",
+			"KM_GACharacter.cpp.obj",
+			"KM_GAHelperForBP.cpp.obj",
+			"KM_GAHelperFunctions.cpp.obj",
+			"KM_GAPawn.cpp.obj"
+		],
+		"Module.KM_GAHelperForBP.gen.cpp.obj": [
+			"KM_GAActor.gen.cpp.obj",
+			"KM_GACharacter.gen.cpp.obj",
+			"KM_GAHelperForBP.init.gen.cpp.obj",
+			"KM_GAHelperFunctions.gen.cpp.obj",
+			"KM_GAPawn.gen.cpp.obj"
+		]
+	}
+}
