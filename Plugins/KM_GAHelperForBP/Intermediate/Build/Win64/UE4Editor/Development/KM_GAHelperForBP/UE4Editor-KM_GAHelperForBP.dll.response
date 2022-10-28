@@ -1,5 +1,5 @@
 /MANIFEST:EMBED
-/MANIFESTINPUT:C:\Users\81802\Documents\UnrealEngine\Engine\Build\Windows\Resources\Default-Win64.manifest
+/MANIFESTINPUT:"C:\Program Files\Epic Games\UE_4.27\Engine\Build\Windows\Resources\Default-Win64.manifest"
 /NOLOGO
 /DEBUG
 /errorReport:prompt
@@ -33,17 +33,17 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
-"C:\Users\81802\Documents\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\81802\Documents\GraduationProduction\Intermediate\Build\Win64\ThirdPersonMPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "C:\Users\81802\Documents\GraduationProduction\Plugins\KM_GAHelperForBP\Intermediate\Build\Win64\UE4Editor\Development\KM_GAHelperForBP\Module.KM_GAHelperForBP.cpp.obj"
 "C:\Users\81802\Documents\GraduationProduction\Plugins\KM_GAHelperForBP\Intermediate\Build\Win64\UE4Editor\Development\KM_GAHelperForBP\Module.KM_GAHelperForBP.gen.cpp.obj"
-"C:\Users\81802\Documents\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
-"C:\Users\81802\Documents\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
-"C:\Users\81802\Documents\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
-"C:\Users\81802\Documents\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Slate\UE4Editor-Slate.lib"
-"C:\Users\81802\Documents\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\SlateCore\UE4Editor-SlateCore.lib"
-"C:\Users\81802\Documents\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
-"C:\Users\81802\Documents\UnrealEngine\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Development\GameplayAbilities\UE4Editor-GameplayAbilities.lib"
-"C:\Users\81802\Documents\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\GameplayTags\UE4Editor-GameplayTags.lib"
+"C:\Users\81802\Documents\GraduationProduction\Plugins\KM_GAHelperForBP\Intermediate\Build\Win64\UE4Editor\Development\KM_GAHelperForBP\Default.rc2.res"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Slate\UE4Editor-Slate.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\SlateCore\UE4Editor-SlateCore.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Development\GameplayAbilities\UE4Editor-GameplayAbilities.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\GameplayTags\UE4Editor-GameplayTags.lib"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
