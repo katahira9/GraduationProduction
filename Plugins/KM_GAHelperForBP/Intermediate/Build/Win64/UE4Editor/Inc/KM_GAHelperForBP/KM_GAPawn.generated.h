@@ -13,17 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define KM_GAHELPERFORBP_KM_GAPawn_generated_h
 
-<<<<<<< HEAD
-#define Itukusima_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_SPARSE_DATA
-#define Itukusima_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_RPC_WRAPPERS
-#define Itukusima_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_RPC_WRAPPERS_NO_PURE_DECLS
-#define Itukusima_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_INCLASS_NO_PURE_DECLS \
-=======
-#define SauceTree_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_SPARSE_DATA
-#define SauceTree_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_RPC_WRAPPERS
-#define SauceTree_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_RPC_WRAPPERS_NO_PURE_DECLS
-#define SauceTree_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_INCLASS_NO_PURE_DECLS \
->>>>>>> origin/sakuya
+#define GraduationProduction_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_SPARSE_DATA
+#define GraduationProduction_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_RPC_WRAPPERS
+#define GraduationProduction_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_RPC_WRAPPERS_NO_PURE_DECLS
+#define GraduationProduction_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAKM_GAPawn(); \
 	friend struct Z_Construct_UClass_AKM_GAPawn_Statics; \
@@ -33,11 +26,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<AKM_GAPawn*>(this); }
 
 
-<<<<<<< HEAD
-#define Itukusima_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_INCLASS \
-=======
-#define SauceTree_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_INCLASS \
->>>>>>> origin/sakuya
+#define GraduationProduction_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_INCLASS \
 private: \
 	static void StaticRegisterNativesAKM_GAPawn(); \
 	friend struct Z_Construct_UClass_AKM_GAPawn_Statics; \
@@ -47,11 +36,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<AKM_GAPawn*>(this); }
 
 
-<<<<<<< HEAD
-#define Itukusima_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_STANDARD_CONSTRUCTORS \
-=======
-#define SauceTree_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_STANDARD_CONSTRUCTORS \
->>>>>>> origin/sakuya
+#define GraduationProduction_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AKM_GAPawn(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AKM_GAPawn) \
@@ -64,11 +49,7 @@ private: \
 public:
 
 
-<<<<<<< HEAD
-#define Itukusima_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_ENHANCED_CONSTRUCTORS \
-=======
-#define SauceTree_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_ENHANCED_CONSTRUCTORS \
->>>>>>> origin/sakuya
+#define GraduationProduction_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AKM_GAPawn(AKM_GAPawn&&); \
@@ -79,58 +60,31 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AKM_GAPawn)
 
 
-<<<<<<< HEAD
-#define Itukusima_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_PRIVATE_PROPERTY_OFFSET \
+#define GraduationProduction_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__AbilitySystemComponent() { return STRUCT_OFFSET(AKM_GAPawn, AbilitySystemComponent); }
 
 
-#define Itukusima_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_10_PROLOG
-#define Itukusima_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_GENERATED_BODY_LEGACY \
+#define GraduationProduction_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_10_PROLOG
+#define GraduationProduction_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Itukusima_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_PRIVATE_PROPERTY_OFFSET \
-	Itukusima_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_SPARSE_DATA \
-	Itukusima_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_RPC_WRAPPERS \
-	Itukusima_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_INCLASS \
-	Itukusima_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_STANDARD_CONSTRUCTORS \
-=======
-#define SauceTree_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_PRIVATE_PROPERTY_OFFSET \
-	FORCEINLINE static uint32 __PPO__AbilitySystemComponent() { return STRUCT_OFFSET(AKM_GAPawn, AbilitySystemComponent); }
-
-
-#define SauceTree_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_10_PROLOG
-#define SauceTree_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_GENERATED_BODY_LEGACY \
-PRAGMA_DISABLE_DEPRECATION_WARNINGS \
-public: \
-	SauceTree_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_PRIVATE_PROPERTY_OFFSET \
-	SauceTree_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_SPARSE_DATA \
-	SauceTree_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_RPC_WRAPPERS \
-	SauceTree_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_INCLASS \
-	SauceTree_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_STANDARD_CONSTRUCTORS \
->>>>>>> origin/sakuya
+	GraduationProduction_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_PRIVATE_PROPERTY_OFFSET \
+	GraduationProduction_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_SPARSE_DATA \
+	GraduationProduction_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_RPC_WRAPPERS \
+	GraduationProduction_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_INCLASS \
+	GraduationProduction_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-<<<<<<< HEAD
-#define Itukusima_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_GENERATED_BODY \
+#define GraduationProduction_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Itukusima_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_PRIVATE_PROPERTY_OFFSET \
-	Itukusima_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_SPARSE_DATA \
-	Itukusima_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
-	Itukusima_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_INCLASS_NO_PURE_DECLS \
-	Itukusima_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_ENHANCED_CONSTRUCTORS \
-=======
-#define SauceTree_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_GENERATED_BODY \
-PRAGMA_DISABLE_DEPRECATION_WARNINGS \
-public: \
-	SauceTree_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_PRIVATE_PROPERTY_OFFSET \
-	SauceTree_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_SPARSE_DATA \
-	SauceTree_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
-	SauceTree_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_INCLASS_NO_PURE_DECLS \
-	SauceTree_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_ENHANCED_CONSTRUCTORS \
->>>>>>> origin/sakuya
+	GraduationProduction_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_PRIVATE_PROPERTY_OFFSET \
+	GraduationProduction_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_SPARSE_DATA \
+	GraduationProduction_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	GraduationProduction_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_INCLASS_NO_PURE_DECLS \
+	GraduationProduction_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -138,11 +92,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> KM_GAHELPERFORBP_API UClass* StaticClass<class AKM_GAPawn>();
 
 #undef CURRENT_FILE_ID
-<<<<<<< HEAD
-#define CURRENT_FILE_ID Itukusima_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h
-=======
-#define CURRENT_FILE_ID SauceTree_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h
->>>>>>> origin/sakuya
+#define CURRENT_FILE_ID GraduationProduction_Plugins_KM_GAHelperForBP_Source_KM_GAHelperForBP_Public_KM_GAPawn_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

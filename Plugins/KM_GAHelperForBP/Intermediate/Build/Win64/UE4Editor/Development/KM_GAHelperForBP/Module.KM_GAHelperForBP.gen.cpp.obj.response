@@ -32,11 +32,7 @@
 /wd4244
 /wd4838
 /I .
-<<<<<<< HEAD
-/I G:\Itukusima\Plugins\KM_GAHelperForBP\Source\KM_GAHelperForBP\Private
-=======
-/I C:\Users\2190215\Desktop\ProductionSoft\SauceTree\Plugins\KM_GAHelperForBP\Source\KM_GAHelperForBP\Private
->>>>>>> origin/sakuya
+/I C:\Users\81802\Documents\GraduationProduction\Plugins\KM_GAHelperForBP\Source\KM_GAHelperForBP\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -236,15 +232,9 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-<<<<<<< HEAD
-/I G:\Itukusima\Plugins\KM_GAHelperForBP\Intermediate\Build\Win64\UE4Editor\Inc\KM_GAHelperForBP
-/I G:\Itukusima\Plugins\KM_GAHelperForBP\Source
-/I G:\Itukusima\Plugins\KM_GAHelperForBP\Source\KM_GAHelperForBP\Public
-=======
-/I C:\Users\2190215\Desktop\ProductionSoft\SauceTree\Plugins\KM_GAHelperForBP\Intermediate\Build\Win64\UE4Editor\Inc\KM_GAHelperForBP
-/I C:\Users\2190215\Desktop\ProductionSoft\SauceTree\Plugins\KM_GAHelperForBP\Source
-/I C:\Users\2190215\Desktop\ProductionSoft\SauceTree\Plugins\KM_GAHelperForBP\Source\KM_GAHelperForBP\Public
->>>>>>> origin/sakuya
+/I C:\Users\81802\Documents\GraduationProduction\Plugins\KM_GAHelperForBP\Intermediate\Build\Win64\UE4Editor\Inc\KM_GAHelperForBP
+/I C:\Users\81802\Documents\GraduationProduction\Plugins\KM_GAHelperForBP\Source
+/I C:\Users\81802\Documents\GraduationProduction\Plugins\KM_GAHelperForBP\Source\KM_GAHelperForBP\Public
 /I ..\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities
 /I ..\Plugins\Runtime\GameplayAbilities\Source
 /I ..\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public
@@ -275,26 +265,17 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-<<<<<<< HEAD
-/FI"G:\Itukusima\Intermediate\Build\Win64\ThirdPersonMPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"G:\Itukusima\Intermediate\Build\Win64\ThirdPersonMPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"G:\Itukusima\Intermediate\Build\Win64\ThirdPersonMPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"G:\Itukusima\Plugins\KM_GAHelperForBP\Intermediate\Build\Win64\UE4Editor\Development\KM_GAHelperForBP\Module.KM_GAHelperForBP.gen.cpp"
-/FI"G:\Itukusima\Plugins\KM_GAHelperForBP\Intermediate\Build\Win64\UE4Editor\Development\KM_GAHelperForBP\Definitions.KM_GAHelperForBP.h"
-/Fo"G:\Itukusima\Plugins\KM_GAHelperForBP\Intermediate\Build\Win64\UE4Editor\Development\KM_GAHelperForBP\Module.KM_GAHelperForBP.gen.cpp.obj"
-=======
-/FI"C:\Users\2190215\Desktop\ProductionSoft\SauceTree\Intermediate\Build\Win64\ThirdPersonMPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\2190215\Desktop\ProductionSoft\SauceTree\Intermediate\Build\Win64\ThirdPersonMPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\2190215\Desktop\ProductionSoft\SauceTree\Intermediate\Build\Win64\ThirdPersonMPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\2190215\Desktop\ProductionSoft\SauceTree\Plugins\KM_GAHelperForBP\Intermediate\Build\Win64\UE4Editor\Development\KM_GAHelperForBP\Module.KM_GAHelperForBP.gen.cpp"
-/FI"C:\Users\2190215\Desktop\ProductionSoft\SauceTree\Plugins\KM_GAHelperForBP\Intermediate\Build\Win64\UE4Editor\Development\KM_GAHelperForBP\Definitions.KM_GAHelperForBP.h"
-/Fo"C:\Users\2190215\Desktop\ProductionSoft\SauceTree\Plugins\KM_GAHelperForBP\Intermediate\Build\Win64\UE4Editor\Development\KM_GAHelperForBP\Module.KM_GAHelperForBP.gen.cpp.obj"
->>>>>>> origin/sakuya
+/FI"C:\Users\81802\Documents\GraduationProduction\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\81802\Documents\GraduationProduction\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\81802\Documents\GraduationProduction\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\81802\Documents\GraduationProduction\Plugins\KM_GAHelperForBP\Intermediate\Build\Win64\UE4Editor\Development\KM_GAHelperForBP\Module.KM_GAHelperForBP.gen.cpp"
+/FI"C:\Users\81802\Documents\GraduationProduction\Plugins\KM_GAHelperForBP\Intermediate\Build\Win64\UE4Editor\Development\KM_GAHelperForBP\Definitions.KM_GAHelperForBP.h"
+/Fo"C:\Users\81802\Documents\GraduationProduction\Plugins\KM_GAHelperForBP\Intermediate\Build\Win64\UE4Editor\Development\KM_GAHelperForBP\Module.KM_GAHelperForBP.gen.cpp.obj"
 /TP
 /GR-
 /W4
