@@ -50,7 +50,7 @@
 #define UE_BUILD_DEVELOPMENT 1
 #define UE_IS_ENGINE_MODULE 0
 #define UE_PROJECT_NAME Itukusima_VS
-#define UE_TARGET_NAME UE4Editor
+#define UE_TARGET_NAME ThirdPersonMPEditor
 #define UE_MODULE_NAME "KM_GAHelperForBP"
 #define UE_PLUGIN_NAME "KM_GAHelperForBP"
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 
