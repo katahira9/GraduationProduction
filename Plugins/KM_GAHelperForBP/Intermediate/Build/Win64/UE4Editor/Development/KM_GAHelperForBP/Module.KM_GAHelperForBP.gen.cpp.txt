@@ -78,3 +78,6 @@ C:\Users\81802\Documents\GraduationProduction\Plugins\KM_GAHelperForBP\Intermedi
 C:/Users/81802/Documents/GraduationProduction/Plugins/KM_GAHelperForBP/Intermediate/Build/Win64/UE4Editor/Inc/KM_GAHelperForBP/KM_GAPawn.gen.cpp
 C:\Users\81802\Documents\GraduationProduction\Plugins\KM_GAHelperForBP\Source\KM_GAHelperForBP/Public/KM_GAPawn.h
 C:\Users\81802\Documents\GraduationProduction\Plugins\KM_GAHelperForBP\Intermediate\Build\Win64\UE4Editor\Inc\KM_GAHelperForBP\KM_GAPawn.generated.h
+C:/Users/81802/Documents/GraduationProduction/Plugins/KM_GAHelperForBP/Intermediate/Build/Win64/UE4Editor/Inc/KM_GAHelperForBP/LoadToText.gen.cpp
+C:\Users\81802\Documents\GraduationProduction\Plugins\KM_GAHelperForBP\Source\KM_GAHelperForBP/Public/LoadToText.h
+C:\Users\81802\Documents\GraduationProduction\Plugins\KM_GAHelperForBP\Intermediate\Build\Win64\UE4Editor\Inc\KM_GAHelperForBP\LoadToText.generated.h
