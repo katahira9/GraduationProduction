@@ -17,10 +17,6 @@
 		{
 			"Name": "KM_GAHelperForBP",
 			"Enabled": true
-		},
-		{
-			"Name": "GameplayAbilities",
-			"Enabled": true
 		}
 	]
 }
