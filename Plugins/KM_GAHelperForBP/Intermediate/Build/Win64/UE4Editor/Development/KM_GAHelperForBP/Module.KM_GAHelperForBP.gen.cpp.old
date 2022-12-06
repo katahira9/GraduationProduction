@@ -4,3 +4,4 @@
 #include "C:/Users/81802/Documents/GraduationProduction/Plugins/KM_GAHelperForBP/Intermediate/Build/Win64/UE4Editor/Inc/KM_GAHelperForBP/KM_GAHelperForBP.init.gen.cpp"
 #include "C:/Users/81802/Documents/GraduationProduction/Plugins/KM_GAHelperForBP/Intermediate/Build/Win64/UE4Editor/Inc/KM_GAHelperForBP/KM_GAHelperFunctions.gen.cpp"
 #include "C:/Users/81802/Documents/GraduationProduction/Plugins/KM_GAHelperForBP/Intermediate/Build/Win64/UE4Editor/Inc/KM_GAHelperForBP/KM_GAPawn.gen.cpp"
+#include "C:/Users/81802/Documents/GraduationProduction/Plugins/KM_GAHelperForBP/Intermediate/Build/Win64/UE4Editor/Inc/KM_GAHelperForBP/LoadToText.gen.cpp"
