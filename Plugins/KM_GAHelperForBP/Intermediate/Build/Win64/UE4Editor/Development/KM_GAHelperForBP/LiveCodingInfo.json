@@ -7,7 +7,9 @@
 			"KM_GAHelperForBP.cpp.obj",
 			"KM_GAHelperFunctions.cpp.obj",
 			"KM_GAPawn.cpp.obj",
-			"LoadToText.cpp.obj"
+			"LoadToText.cpp.obj",
+			"MyActor.cpp.obj",
+			"PostHTTPActor.cpp.obj"
 		],
 		"Module.KM_GAHelperForBP.gen.cpp.obj": [
 			"KM_GAActor.gen.cpp.obj",
@@ -15,7 +17,9 @@
 			"KM_GAHelperForBP.init.gen.cpp.obj",
 			"KM_GAHelperFunctions.gen.cpp.obj",
 			"KM_GAPawn.gen.cpp.obj",
-			"LoadToText.gen.cpp.obj"
+			"LoadToText.gen.cpp.obj",
+			"MyActor.gen.cpp.obj",
+			"PostHTTPActor.gen.cpp.obj"
 		]
 	}
 }
