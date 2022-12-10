@@ -56,6 +56,7 @@ void APostHTTPActor::OnResponseReceived(FHttpRequestPtr Request, FHttpResponsePt
 	//Create a reader pointer to read the json data
 	TSharedRef<TJsonReader<>> Reader = TJsonReaderFactory<>::Create(Response->GetContentAsString());
 	GEngine->AddOnScreenDebugMessage(1, 2.0f, FColor::Green, Response->GetContentAsString());
+	returnoutput = Response->GetContentAsString();
 	//Deserialize the json data given Reader and the actual object to deserialize
 	if (FJsonSerializer::Deserialize(Reader, JsonObject))
 	{

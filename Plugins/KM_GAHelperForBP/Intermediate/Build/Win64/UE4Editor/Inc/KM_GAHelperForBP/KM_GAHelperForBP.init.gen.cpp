@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeKM_GAHelperForBP_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x27CAC9FC,
+				0xDC8B2F12,
 				0xD97627AF,
 				METADATA_PARAMS(nullptr, 0)
 			};
