@@ -84,6 +84,10 @@ void EmptyLinkFunctionForGeneratedCodePostHTTPActor() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_returnoutput_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FStrPropertyParams NewProp_returnoutput;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_IptText_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FStrPropertyParams NewProp_IptText;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -110,8 +114,16 @@ void EmptyLinkFunctionForGeneratedCodePostHTTPActor() {}
 	};
 #endif
 	const UE4CodeGen_Private::FStrPropertyParams Z_Construct_UClass_APostHTTPActor_Statics::NewProp_returnoutput = { "returnoutput", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Str, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(APostHTTPActor, returnoutput), METADATA_PARAMS(Z_Construct_UClass_APostHTTPActor_Statics::NewProp_returnoutput_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_APostHTTPActor_Statics::NewProp_returnoutput_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_APostHTTPActor_Statics::NewProp_IptText_MetaData[] = {
+		{ "Category", "Level" },
+		{ "ModuleRelativePath", "Public/PostHTTPActor.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FStrPropertyParams Z_Construct_UClass_APostHTTPActor_Statics::NewProp_IptText = { "IptText", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Str, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(APostHTTPActor, IptText), METADATA_PARAMS(Z_Construct_UClass_APostHTTPActor_Statics::NewProp_IptText_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_APostHTTPActor_Statics::NewProp_IptText_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_APostHTTPActor_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APostHTTPActor_Statics::NewProp_returnoutput,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APostHTTPActor_Statics::NewProp_IptText,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_APostHTTPActor_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<APostHTTPActor>::IsAbstract,
@@ -140,7 +152,7 @@ void EmptyLinkFunctionForGeneratedCodePostHTTPActor() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(APostHTTPActor, 1267197239);
+	IMPLEMENT_CLASS(APostHTTPActor, 922142543);
 	template<> KM_GAHELPERFORBP_API UClass* StaticClass<APostHTTPActor>()
 	{
 		return APostHTTPActor::StaticClass();

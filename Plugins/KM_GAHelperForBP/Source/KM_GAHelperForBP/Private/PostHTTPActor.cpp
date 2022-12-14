@@ -36,6 +36,7 @@ void APostHTTPActor::MyHttpCall(FString text)
 	FJsonSerializer::Serialize(JsonObject.ToSharedRef(), JsonWriter);
 	TSharedRef<IHttpRequest, ESPMode::ThreadSafe> Request = Http->CreateRequest();
 	Request->OnProcessRequestComplete().BindUObject(this, &APostHTTPActor::OnResponseReceived);
+	
 	//This is the url on which to process the request
 	Request->SetURL("http://localhost/modeselect.php");
 	Request->SetVerb("POST");

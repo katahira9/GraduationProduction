@@ -30,6 +30,8 @@ public:
 		void MyHttpCall(FString text);
 	UPROPERTY(EditAnywhere,BlueprintReadWrite,Category="Level")
 		FString returnoutput;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Level")
+		FString IptText;
 	/*Assign this function to call when the GET request processes sucessfully*/
 
 	void OnResponseReceived(FHttpRequestPtr Request, FHttpResponsePtr Response, bool bWasSuccessful);
