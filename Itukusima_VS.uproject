@@ -12,5 +12,11 @@
 				"Engine"
 			]
 		}
+	],
+	"Plugins": [
+		{
+			"Name": "KM_GAHelperForBP",
+			"Enabled": true
+		}
 	]
 }
