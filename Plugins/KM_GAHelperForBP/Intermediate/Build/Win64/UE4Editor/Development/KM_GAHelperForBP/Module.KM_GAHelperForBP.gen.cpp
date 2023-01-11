@@ -5,3 +5,5 @@
 #include "G:/Itukusima/Plugins/KM_GAHelperForBP/Intermediate/Build/Win64/UE4Editor/Inc/KM_GAHelperForBP/KM_GAHelperFunctions.gen.cpp"
 #include "G:/Itukusima/Plugins/KM_GAHelperForBP/Intermediate/Build/Win64/UE4Editor/Inc/KM_GAHelperForBP/KM_GAPawn.gen.cpp"
 #include "G:/Itukusima/Plugins/KM_GAHelperForBP/Intermediate/Build/Win64/UE4Editor/Inc/KM_GAHelperForBP/LoadToText.gen.cpp"
+#include "G:/Itukusima/Plugins/KM_GAHelperForBP/Intermediate/Build/Win64/UE4Editor/Inc/KM_GAHelperForBP/MyActor.gen.cpp"
+#include "G:/Itukusima/Plugins/KM_GAHelperForBP/Intermediate/Build/Win64/UE4Editor/Inc/KM_GAHelperForBP/PostHTTPActor.gen.cpp"

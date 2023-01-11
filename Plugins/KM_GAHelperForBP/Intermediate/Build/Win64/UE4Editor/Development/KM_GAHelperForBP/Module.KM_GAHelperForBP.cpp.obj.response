@@ -241,6 +241,8 @@
 /I ..\Plugins\Runtime\DataRegistry\Intermediate\Build\Win64\UE4Editor\Inc\DataRegistry
 /I ..\Plugins\Runtime\DataRegistry\Source
 /I ..\Plugins\Runtime\DataRegistry\Source\DataRegistry\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\JsonUtilities
+/I Runtime\JsonUtilities\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf

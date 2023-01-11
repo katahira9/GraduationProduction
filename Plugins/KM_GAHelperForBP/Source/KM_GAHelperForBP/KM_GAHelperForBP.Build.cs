@@ -28,6 +28,7 @@ public class KM_GAHelperForBP : ModuleRules
 				"Core",
 				"GameplayAbilities",
 				"GameplayTags",
+				 "Http", "Json", "JsonUtilities"
 				// ... add other public dependencies that you statically link with here ...
 			}
 			);

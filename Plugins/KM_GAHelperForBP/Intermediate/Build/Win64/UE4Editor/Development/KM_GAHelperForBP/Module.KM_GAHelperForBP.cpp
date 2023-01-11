@@ -5,3 +5,5 @@
 #include "G:/Itukusima/Plugins/KM_GAHelperForBP/Source/KM_GAHelperForBP/Private/KM_GAHelperFunctions.cpp"
 #include "G:/Itukusima/Plugins/KM_GAHelperForBP/Source/KM_GAHelperForBP/Private/KM_GAPawn.cpp"
 #include "G:/Itukusima/Plugins/KM_GAHelperForBP/Source/KM_GAHelperForBP/Private/LoadToText.cpp"
+#include "G:/Itukusima/Plugins/KM_GAHelperForBP/Source/KM_GAHelperForBP/Private/MyActor.cpp"
+#include "G:/Itukusima/Plugins/KM_GAHelperForBP/Source/KM_GAHelperForBP/Private/PostHTTPActor.cpp"
