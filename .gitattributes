@@ -1,2 +1,4 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 Content/* filter=lfs diff=lfs merge=lfs -text
+/Content/GameAssets/BluePrint/Maps filter=lfs diff=lfs merge=lfs -text
+/Content/GameAssets/BluePrint/Maps/Game_BuildData.uasset filter=lfs diff=lfs merge=lfs -text
