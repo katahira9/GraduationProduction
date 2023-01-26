@@ -11,3 +11,5 @@ Content/GameAssets/Asset/Texture/* filter=lfs diff=lfs merge=lfs -text
 Content/GameAssets/BluePrint/Maps/* filter=lfs diff=lfs merge=lfs -text
 Content/GameAssets/BluePrint/Objects/BackGround filter=lfs diff=lfs merge=lfs -text
 Content/StarterContent/Textures/* filter=lfs diff=lfs merge=lfs -text
+Content/GameAssets/Asset/Sound/* filter=lfs diff=lfs merge=lfs -text
+Content/GameAssets/BluePrint/Objects/BackGround/Ground/City/* filter=lfs diff=lfs merge=lfs -text
